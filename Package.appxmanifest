@@ -9,7 +9,7 @@
 
   <Identity
     Name="TelegramXGB"
-    Publisher="CN=Malw.ru"
+    Publisher="CN=TelegramXGB"
     Version="1.0.0.0" />
 
   <mp:PhoneIdentity PhoneProductId="4b9dee15-da50-4b0a-8337-9b84da542023" PhonePublisherId="00000000-0000-0000-0000-000000000000"/>
